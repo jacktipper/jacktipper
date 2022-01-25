@@ -4,8 +4,7 @@ www.jacktipper.com
 ### Hello! Thanks for visiting my page.
 I'm a master's student at NYU focusing on deep learning applications for audio processing, as well as real-time audio, hardware/circuit design, embedded systems, system-level Linux, and digital signal processing/software development in Python, C, C++, etc. 
 
-I am interested in pioneering new audio software and hardware to make our world sound even more beautiful in previously unheard ways!
-
+I am interested in pioneering new audio technology help creatives push the envelope and make our world sound beautiful in previously unheard ways. Want to work together? Please connect with me via my website!
 
 #### These are the top three languages I've been developing with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacktipper&langs_count=3)](https://github.com/jacktipper/github-readme-stats)
