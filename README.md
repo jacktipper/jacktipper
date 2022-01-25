@@ -8,7 +8,7 @@ I am interested in pioneering new audio software and hardware to make our world 
 
 
 #### These are the languages I've been developing with the most:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacktipper&langs_count=8)](https://github.com/jacktipper/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacktipper&langs_count=3)](https://github.com/jacktipper/github-readme-stats)
 
 
 <!--
