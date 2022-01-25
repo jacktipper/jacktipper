@@ -2,7 +2,9 @@
 www.jacktipper.com
 
 ### Hello! Thanks for visiting my page.
-I'm a master's student at NYU focusing on deep learning applications for audio processing, as well as real-time audio, hardware/circuit design, embedded systems, system-level Linux, and digital signal processing/software development in Python, C, C++, etc.![image](https://user-images.githubusercontent.com/74902963/150930046-0d867f53-2f8f-4b59-9f37-e91f259a7c9a.png)
+I'm a master's student at NYU focusing on deep learning applications for audio processing, as well as real-time audio, hardware/circuit design, embedded systems, system-level Linux, and digital signal processing/software development in Python, C, C++, etc. 
+
+I am interested in pioneering new audio software and hardware to make our world sound even more beautiful in previously unheard ways!
 
 
 #### These are the languages I've been developing with the most:
