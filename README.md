@@ -7,7 +7,7 @@ I'm a master's student at NYU focusing on deep learning applications for audio p
 I am interested in pioneering new audio software and hardware to make our world sound even more beautiful in previously unheard ways!
 
 
-#### These are the languages I've been developing with the most:
+#### These are the top three languages I've been developing with:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacktipper&langs_count=3)](https://github.com/jacktipper/github-readme-stats)
 
 
